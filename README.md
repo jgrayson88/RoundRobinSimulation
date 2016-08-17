@@ -17,9 +17,9 @@ Performance of the processes is determined by:
 - CPU utilization
 - Throughput 
 
-A configuration file needs to be created in order to use this program and it must follow the below format:
+A configuration file needs to be created in order to use this program and it must follow the below format (don't include bullet pts):
 
-one 0 5
-two 5 4
-three 6 12
-four 8 14
+- one 0 5
+- two 5 4
+- three 6 12
+- four 8 14
