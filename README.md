@@ -1,9 +1,10 @@
 # RoundRobinSimulation
 This is a CPU scheduling program for the Round Robin algorithm.
 The simulation implements the following:
-•	Clock – timestamps all events for processes, such as creation time, completion time, etc.
-•	Process creator – creates processes at arrival time. 
-•	CPU – runs processes for a time slice  (user-specified)
+
+Clock – timestamps all events for processes, such as creation time, completion time, etc.
+Process creator – creates processes at arrival time. 
+CPU – runs processes for a time slice  (user-specified)
 •	A FIFO Ready queue used by both the process creator and CPU
 •	Process arrival time – the arrival time of new processes into the ready queue 
 •	Processes service time – amount of time required by the processes to complete execution 
